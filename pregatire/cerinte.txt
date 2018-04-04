@@ -1,0 +1,2 @@
+Sa se creeze teste JUnit aplicand principiul Right-BICEP. 
+Sa se modifice codul sursa astfel incat toate testele sa ruleze corect. 
